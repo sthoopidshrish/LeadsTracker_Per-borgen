@@ -12,6 +12,9 @@ I learnt about :
 5) cross page refresh
 6) JSON : manifest.json
 7) the parse and stringify functions
+8) addEventListener
+9) innerHTML
+10) template strings
 
 
 Hoping to learn a lot more ..I am grateful to Per Harald Borgen, the founder of scrimba.com and FreeCodeCamp for their comprehensive lecture of the topic from the beginner level.
